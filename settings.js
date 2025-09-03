@@ -14,7 +14,7 @@ global.botNumber = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['573196588149', 'SoyMaycol', true],
+  ['967778668253', 'SoyMaycol', true],
   ['180650938249287', 'SoyMaycol', true], 
 ];
 
