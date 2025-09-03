@@ -15,7 +15,7 @@ global.botNumber = ''
 
 global.owner = [
   ['967778668253', 'SoyMaycol', true],
-  ['180650938249287', 'SoyMaycol', true], 
+  ['967778668253', 'SoyMaycol', true], 
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -42,7 +42,7 @@ global.botname = '𝐈𝐝𝐢𝐨𝐭𝕄𝔻'
 global.wm = 'ＩｄｉｏｔＭＤ'
 global.author = '𝐈𝐝𝐢𝐨𝐭𝐌𝐃 ᴴᵉᶜʰᵒ ᵖᵒʳ ˢᵒʸᵐᵃʸᶜᵒˡ'
 global.dev = 'ᴴᵉᶜʰᵒ ᵖᵒʳ ˢᵒʸᵐᵃʸᶜᵒˡ'
-global.textbot = 'You Are An Idiot :)'
+global.textbot = 'You'
 global.etiqueta = '𝚂𝚘𝚢𝙼𝚊𝚢𝚌𝚘𝚕'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
